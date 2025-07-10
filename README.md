@@ -4,7 +4,7 @@ A machine learning-based classifier using **SVM (Support Vector Machine)** and *
 ## 🔍 Project Overview
 This project aims to build a classification model that can identify suspicious or illicit tweets linked to human trafficking. Using **NLP preprocessing**, **TF-IDF vectorization**, and **SVM**, the model learns to classify tweets as either **positive (suspicious)** or **negative (non-suspicious)**. It is particularly useful for supporting organizations that monitor trafficking activity online.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python
 - Pandas
 - NumPy
@@ -16,7 +16,7 @@ This project aims to build a classification model that can identify suspicious o
 - Pickle
 - Jupyter Notebook
 
-#### 📁 Dataset
+## 📁 Dataset
 The dataset is based on the **Sentiment140 Twitter Dataset**, which contains  **1.6 million tweets**. Important columns include:
 
 - text: Tweet content
@@ -25,7 +25,7 @@ The dataset is based on the **Sentiment140 Twitter Dataset**, which contains  **
 
     📌 Note: If you're running locally, replace any cloud-specific paths with your own (e.g., ./data/tweets.csv).
 
-##### 📊 Key Features
+## 📊 Key Features
   Text Preprocessing:
    - Lowercasing, removing hyperlinks, punctuations, and stopwords
    - Tokenization, stemming, and lemmatization
