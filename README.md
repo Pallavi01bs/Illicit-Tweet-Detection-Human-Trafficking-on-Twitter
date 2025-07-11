@@ -85,3 +85,6 @@ Software
  - Scikit-learn SVM Docs
  - NLTK
 - Research Papers (see Illicit message...docx for full list)
+
+  ## 📄 License
+This project is licensed under the [MIT License](LICENSE).
