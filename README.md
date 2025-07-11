@@ -45,3 +45,43 @@ The dataset is based on the **Sentiment140 Twitter Dataset**, which contains  **
  Real-time Testing:
    - Load saved model
    - Predict new tweets (Positive / Negative)
+
+## 🚀 How to Run the Project
+1. Clone the Repository
+```bash
+git clone https://github.com/pallavi01bs/IllicitTweetDetection.git
+cd IllicitTweetDetection
+```
+
+2. Install Dependencies
+```bash
+pip install -r requirements.txt
+#or manually:
+pip install numpy pandas matplotlib seaborn nltk scikit-learn wordcloud
+```
+
+3. Run the Notebooks
+ - PT1 training.ipynb — Train the SVM model on preprocessed data
+ - PT1 testing.ipynb — Load the model and classify new tweets
+
+## 🧪 Sample Output
+|Tweet	|Prediction|
+|-----|------|
+|"Just like #EpsteinClientList"	|Positive|
+|"https://t.co/IMWpn3S1E4"	|Negative|
+
+## ✅ System Requirements
+Hardware
+ - 1.1 GHz+ Dual Core Processor
+ - 8 GB RAM minimum
+
+Software
+ - Windows 11
+ - Python 3.7 or higher
+ - Jupyter Notebook / Google Colab
+
+## 📚 References
+ - Sentiment140 Dataset
+ - Scikit-learn SVM Docs
+ - NLTK
+- Research Papers (see Illicit message...docx for full list)
