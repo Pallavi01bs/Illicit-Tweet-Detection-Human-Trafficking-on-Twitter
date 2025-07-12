@@ -49,7 +49,7 @@ The dataset is based on the **Sentiment140 Twitter Dataset**, which contains  **
 ## 🚀 How to Run the Project
 1. Clone the Repository
 ```bash
-git clone https://github.com/pallavi01bs/IllicitTweetDetection.git
+git clone https://github.com/Pallavi01bs/IllicitTweetDetection.git
 cd IllicitTweetDetection
 ```
 
